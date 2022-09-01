@@ -54,6 +54,4 @@ You can see the templates and the final script in [this github gist](https://gis
 
 
 I put the generated files in Jekyll's `/_draft/` folder, which is documented [here](https://jekyllrb.com/docs/posts/#drafts).
-
-
-
+The resulting change occurs in [this commit](https://github.com/Neil-Penning/Neil-Penning.github.io/commit/6e36033a19b8413974d414e5092c62083f8043ea).
