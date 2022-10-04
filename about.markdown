@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Introduction
+I am Neil Penning, an Undergradutate Mathematics major at Georgia Tech.
+The list of classes I've taken are under [Classes](/Classes/).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# Other
+Back in High School, I founded the [FIRST](https://www.firstinspires.org/) Robotics Team [Ignite Robotics (6829)](https://www.igniterobotics.com/).
 
 
-[jekyll-organization]: https://github.com/jekyll
+# Skills
