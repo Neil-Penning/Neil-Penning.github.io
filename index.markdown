@@ -4,6 +4,6 @@
 
 layout: home
 ---
-# Notice:
+# Homepage
+## Notice:
 This page is very much still a work in progress
-
