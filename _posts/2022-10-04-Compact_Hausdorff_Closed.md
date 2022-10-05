@@ -2,7 +2,7 @@
 layout: post
 title:  "A Compact Subspace of a Hausdorff Space is Closed"
 date:   2022-10-04
-permalink: /:categories/:year/W:week/:short_day/:title:output_ext
+permalink: /:categories/:year/:title:output_ext
 categories: Math
 ---
 

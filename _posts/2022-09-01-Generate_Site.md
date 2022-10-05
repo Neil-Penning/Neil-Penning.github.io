@@ -2,7 +2,7 @@
 layout: post
 title:  "Generate Old Files"
 date:   2022-09-01
-permalink: /:categories/:year/W:week/:short_day/:title:output_ext
+permalink: /:categories/:year/:title:output_ext
 categories: Task Github_Pages
 ---
 # Problem

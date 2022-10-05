@@ -2,7 +2,7 @@
 layout: post
 title:  "Covering Space"
 date:   2022-10-02
-permalink: /:categories/:year/W:week/:short_day/:title:output_ext
+permalink: /:categories/:year/:title:output_ext
 categories: Math
 ---
 

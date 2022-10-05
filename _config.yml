@@ -31,7 +31,6 @@ github_username:  Neil-Penning
 theme: minima
 plugins:
   - jekyll-feed
-permalink: /:categories/:year/W:week/:short_day/:title:output_ext
 
 # Exclude from processing.
 # The following items will not be processed, by default.
